@@ -1,4 +1,4 @@
-# LookerStudio-ProfitInsight
+## LookerStudio-ProfitAnalysis
 ### Project Overview:
 This project aims to conduct a comprehensive profit analysis for a retail business using a dataset that includes information on orders, customers, products, and financial metrics such as sales, discounts, and profit. The objective is to identify key factors influencing profitability, analyze profit trends, and provide actionable insights for business decision-making.
 
