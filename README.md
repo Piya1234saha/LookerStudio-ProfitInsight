@@ -14,7 +14,7 @@ Looker Studio Used for data visualization and dashboard creation.
 Microsoft Excel: Used for data preparation and basic analysis
 
 ### Data Preparation:
-Clean and preprocess the dataset (e.g., removing duplicates, handling missing values).
+Clean and preprocess the dataset (e.g., removing duplicates, handling missing values).  
 Convert the dataset into a format compatible with Looker Studio (e.g., CSV or Google Sheets).
 
 ### Results and Findings: 
