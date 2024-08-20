@@ -18,4 +18,5 @@ Clean and preprocess the dataset (e.g., removing duplicates, handling missing va
 Convert the dataset into a format compatible with Looker Studio (e.g., CSV or Google Sheets).
 
 ### Results and Findings: 
+The analysis shows a consistent increase in profits, with October, November, and December consistently yielding the highest returns. Furniture is the most profitable category, especially when shipped via Standard Shipping. In the state-wise analysis, New York State emerges as the top performer, with New York City contributing the most significant share of profits.
 This project is essential for helping stakeholders understand the factors influencing profitability and guiding them in making strategic decisions to enhance business performance. 
